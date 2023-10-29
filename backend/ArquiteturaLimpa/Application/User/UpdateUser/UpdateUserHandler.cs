@@ -1,4 +1,6 @@
-﻿using AutoMapper;
+﻿using Application.Common.Exceptions;
+using Application.Common.Validator;
+using AutoMapper;
 using Domain.Entities.User;
 using Infrastructure.Common.Api;
 using MediatR;
@@ -21,6 +23,11 @@ public class UpdateUserHandler : IRequestHandler<UpdateUserCommand, Response<boo
 
     public async Task<Response<bool>> Handle(UpdateUserCommand request, CancellationToken cancellationToken)
     {
+        var validate = new UpdateUserUseCase().Validate(request);
+
+        if (!validate.IsValid)
+            throw new ValidationException(validate.Errors.ToValidationFailure());
+
         var user = mapper.Map<UserEntitie>(request);
 
         this.userService.unitOfWork?.BeginTransaction();
