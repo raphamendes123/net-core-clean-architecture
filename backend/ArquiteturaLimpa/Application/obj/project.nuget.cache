@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n82StTLDvdUOc3iMtQQjyvNiWkx8jssddHAjGFDTVq92fq0Oxju8aTWZPMyZbrTao4YaMl843GC5M/GeVCYsYQ==",
+  "dgSpecHash": "PteHkvrCyw78cDwOP/U2XHgMLHMtTlpkKNhURpin53wH1iXiWmmfrW3hM3lJmPIbXJgK44zrdmrQrWrJyb0byQ==",
   "success": true,
-  "projectFilePath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Application\\Application.csproj",
+  "projectFilePath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rapha\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rapha\\.nuget\\packages\\domainvalidationcore\\1.1.1\\domainvalidationcore.1.1.1.nupkg.sha512",

@@ -31,3 +31,14 @@ D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Se
 D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\refint\Security.dll
 D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\Security.pdb
 D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\ref\Security.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\bin\Debug\net7.0\Security.deps.json
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\bin\Debug\net7.0\Security.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\bin\Debug\net7.0\Security.pdb
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\Security.AssemblyInfoInputs.cache
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\Security.AssemblyInfo.cs
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\Security.csproj.CoreCompileInputs.cache
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\Security.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\refint\Security.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\Security.pdb
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Security\obj\Debug\net7.0\ref\Security.dll

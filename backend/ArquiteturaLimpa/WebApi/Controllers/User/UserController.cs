@@ -24,7 +24,7 @@ namespace WebApi.Controllers.User
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesDefaultResponseType]
-        public async Task<ActionResult<ExecutionResult<long>>> Create([FromBody]CreateUserCommand command)
+        public async Task<ActionResult<Response<long>>> Create([FromBody]CreateUserCommand command)
         {
             return await Mediator.Send(command);
         }
@@ -34,7 +34,7 @@ namespace WebApi.Controllers.User
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesDefaultResponseType]
-        public async Task<ActionResult<ExecutionResult<bool>>> Update(int id, UpdateUserCommand command)
+        public async Task<ActionResult<Response<bool>>> Update(int id, UpdateUserCommand command)
         {
             if (id != command.Id)
             {
@@ -49,7 +49,7 @@ namespace WebApi.Controllers.User
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesDefaultResponseType]
-        public async Task<ActionResult<ExecutionResult<bool>>> Delete(int id)
+        public async Task<ActionResult<Response<bool>>> Delete(int id)
         {
             return await Mediator.Send(new DeleteUserCommand(id));
         }
@@ -59,7 +59,7 @@ namespace WebApi.Controllers.User
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesDefaultResponseType]
-        public async Task<ActionResult<ExecutionResult<List<UserDTO>>>> FindAll([FromQuery] GetUserCommand command)  
+        public async Task<ActionResult<Response<List<UserDTO>>>> FindAll([FromQuery] GetUserCommand command)  
         {
             return await Mediator.Send(command);
         }

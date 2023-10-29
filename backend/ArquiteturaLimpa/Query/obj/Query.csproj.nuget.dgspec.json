@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Query\\Query.csproj": {}
+    "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Query\\Query.csproj": {}
   },
   "projects": {
-    "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Query\\Query.csproj": {
+    "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Query\\Query.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Query\\Query.csproj",
+        "projectUniqueName": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Query\\Query.csproj",
         "projectName": "Query",
-        "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Query\\Query.csproj",
+        "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Query\\Query.csproj",
         "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Query\\obj\\",
+        "outputPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Query\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

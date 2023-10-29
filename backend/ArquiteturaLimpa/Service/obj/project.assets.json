@@ -3047,11 +3047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Service\\Service.csproj",
+      "projectUniqueName": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Service\\Service.csproj",
+      "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Service\\obj\\",
+      "outputPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3072,17 +3072,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Domain\\Domain.csproj"
+            "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Domain\\Domain.csproj"
             },
-            "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Query\\Query.csproj": {
-              "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Query\\Query.csproj"
+            "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Query\\Query.csproj": {
+              "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Query\\Query.csproj"
             },
-            "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Repository\\Repository.csproj"
+            "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Repository\\Repository.csproj"
             },
-            "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Security\\Security.csproj": {
-              "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Security\\Security.csproj"
+            "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Security\\Security.csproj": {
+              "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Security\\Security.csproj"
             }
           }
         }

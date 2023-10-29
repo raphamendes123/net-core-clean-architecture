@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MI4+5rQvDjkYlk6c28Xeyzdjx30wyVAlgl1bXY1yrmS4KxdkHGAgA/3U6y+PA8TdrYCVD2+G2jEzeHyr33/mdQ==",
+  "dgSpecHash": "B4s5W8y6Hhjmx+frAO4oVTr5gJf9YMgJsEfs/E3ZeLDmqTNQNHcHm+S6MT+4SNTu9KNRi7ZpI+xXStT1v8iMnw==",
   "success": true,
-  "projectFilePath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Base\\Base.csproj",
+  "projectFilePath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Base\\Base.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rapha\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\rapha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

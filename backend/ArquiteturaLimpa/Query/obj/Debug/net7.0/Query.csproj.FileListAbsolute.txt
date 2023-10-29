@@ -31,3 +31,14 @@ D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Qu
 D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\refint\Query.dll
 D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\Query.pdb
 D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\ref\Query.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\bin\Debug\net7.0\Query.deps.json
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\bin\Debug\net7.0\Query.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\bin\Debug\net7.0\Query.pdb
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\Query.AssemblyInfoInputs.cache
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\Query.AssemblyInfo.cs
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\Query.csproj.CoreCompileInputs.cache
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\Query.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\refint\Query.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\Query.pdb
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Query\obj\Debug\net7.0\ref\Query.dll

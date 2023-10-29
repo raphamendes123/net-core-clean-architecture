@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Domain\\Domain.csproj",
+      "projectPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\Domain\\obj\\",
+      "outputPath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

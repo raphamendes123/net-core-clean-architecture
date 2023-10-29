@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pf5CyNMFkHa/44zOvCfMWjvIPWP88wC+aY5Nlb9GwI3W6J9drHyUdO/Bi8dHSoxKftd2ytRQjOIzEuiK/jFrwA==",
+  "dgSpecHash": "AaK9sCKSQvg9HfHb6CjTe4nM2FtGeeQoOBiuvnBF+as0l054VhG4qDn3I69q/dlDDCogvDFqAkz1ASQjXlo29A==",
   "success": true,
-  "projectFilePath": "D:\\github\\raphamendes123\\net-core-clean-architecture\\backend\\ArquiteturaLimpa\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\github\\raphamendes123\\net-core-clean-architecturexxx\\backend\\ArquiteturaLimpa\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rapha\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rapha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

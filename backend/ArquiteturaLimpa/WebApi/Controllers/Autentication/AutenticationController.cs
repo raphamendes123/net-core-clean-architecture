@@ -14,7 +14,7 @@ namespace WebApi.Controllers.User
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesDefaultResponseType]
-        public async Task<ActionResult<AutenticationResponse>> Create([FromBody] AutenticationCommand command)
+        public async Task<AutenticationResponse> Create([FromBody] AutenticationCommand command)
         {
             return await Mediator.Send(command);
         }         

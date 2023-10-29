@@ -31,3 +31,14 @@ D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Do
 D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\Domain.pdb
 D:\github\raphamendes123\net-core-clean-architecture\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\bin\Debug\net7.0\Domain.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\bin\Debug\net7.0\Domain.pdb
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\Domain.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\Domain.pdb
+D:\github\raphamendes123\net-core-clean-architecturexxx\backend\ArquiteturaLimpa\Domain\obj\Debug\net7.0\ref\Domain.dll
