@@ -13,7 +13,7 @@ public class UpdateUserUseCase : Validator<UpdateUserCommand>
 {
     public UpdateUserUseCase()
     {
-        Add("IsIdNoExist", new Rule<UpdateUserCommand>(new IsIdNoExist(), "Cpf: existing.")); 
+        Add("IsIdNoExist", new Rule<UpdateUserCommand>(new IsIdNoExist(), "Id: no exist.")); 
     }
 
     public class IsIdNoExist : ISpecification<UpdateUserCommand>
