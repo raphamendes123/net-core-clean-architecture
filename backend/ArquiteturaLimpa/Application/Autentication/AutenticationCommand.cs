@@ -1,6 +1,5 @@
 ﻿using Domain.Model.Autentication;
-using Infrastructure.Common.Api;
-using MediatR; 
+using MediatR;
 
 namespace Application.Autentication
 {

@@ -1,6 +1,4 @@
-﻿using Infrastructure.AutoMapper.User;
-using Microsoft.Extensions.DependencyInjection;
-using AutoMapper;
+﻿using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 
 namespace Infrastructure.AutoMapper

@@ -4,8 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using PearlCore.ADO.NET.Common.Exceptions;
 using PearlCore.UnitOfWork;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-using System;
 
 namespace Infrastructure.Common.Api;
 

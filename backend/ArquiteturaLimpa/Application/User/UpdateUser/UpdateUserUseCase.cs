@@ -1,9 +1,7 @@
-﻿
-using Application.Common.Exceptions;
+﻿using Application.Common.Exceptions;
 using Domain.Entities.User;
 using DomainValidationCore.Interfaces.Specification;
 using DomainValidationCore.Validation;
-using PearlCore.FieldValidation;
 using Service.User;
 using Service.User.Interface;
 

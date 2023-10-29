@@ -1,6 +1,5 @@
 ﻿using Infrastructure.Common.Api;
 using MediatR;
-using PearlCore.ADO.NET;
 
 namespace Application.User.DeleteUser
 {

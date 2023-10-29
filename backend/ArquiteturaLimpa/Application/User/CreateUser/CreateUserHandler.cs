@@ -1,5 +1,4 @@
-﻿using Application.Autentication;
-using Application.Common.Exceptions;
+﻿using Application.Common.Exceptions;
 using Application.Common.Validator;
 using AutoMapper;
 using Domain.Entities.User;

@@ -4,7 +4,6 @@ using DomainValidationCore.Interfaces.Specification;
 using DomainValidationCore.Validation;
 using Service.User;
 using Service.User.Interface;
-using System;
 
 namespace Application.User.DeleteUser;
 
