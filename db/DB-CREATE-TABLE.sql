@@ -1,4 +1,4 @@
-USE GO
+USE NAMEDATABASE GO
  
 IF OBJECT_ID('UserAdresses') IS NOT NULL DROP TABLE UserAdresses
 IF OBJECT_ID('UserContacts') IS NOT NULL DROP TABLE UserContacts
